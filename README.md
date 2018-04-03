@@ -36,7 +36,7 @@ A list of C tutorials that work through the creation of small and or large proje
 - [Multiplayer WebSocket Game server written in C](http://www.gamedevcraft.com/2016/08/part-1-multiplayer-websocket-game.html)
 - [Emulator 101](http://emulator101.com/)
 - [How to Program a Text Adventure in C](https://helderman.github.io/htpataic/htpataic01.html)
-- [Linux From Scratch](http://www.linuxfromscratch.org)
+
 
 ## Video Series
 
