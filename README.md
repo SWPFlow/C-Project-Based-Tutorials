@@ -12,6 +12,8 @@ A list of C tutorials that work through the creation of small and or large proje
 - [Sudoku Programming with C](https://www.amazon.com/dp/1484209966/)
 - [Making 8-bit Arcade Games in C](https://www.amazon.com/dp/1545484759/)
 - [A Retargetable C Compiler: Design and Implementation](https://www.amazon.com/dp/0805316701/)
+- [Modern Compiler Implementation in C](https://www.amazon.com/dp/052158390X/)
+- [The Craft of Text Editing](https://www.amazon.com/dp/1411682971/)
 - [Game Engine Black Book: Wolfenstein 3D](https://www.amazon.com/dp/1539692876/)
 
 ## Articles
