@@ -50,3 +50,9 @@ A list of C tutorials that work through the creation of small and or large proje
 - [Learn Socket Programming in C from Scratch](https://www.udemy.com/learn-socket-programming-in-c-from-scratch/)
 - [Bitwise](https://github.com/pervognsen/bitwise)
 - [Handmade Hero](https://handmadehero.org/)
+
+## Similar
+
+- [Projects-from-Scratch](https://github.com/AlgoryL/Projects-from-Scratch)
+- [awesome-diy-software](https://github.com/cweagans/awesome-diy-software)
+- [Project Based Learning](https://github.com/tuvtran/project-based-learning)
