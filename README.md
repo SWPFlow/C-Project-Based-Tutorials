@@ -40,7 +40,7 @@ A list of C tutorials that work through the creation of small and or large proje
 - [How to Program a Text Adventure in C](https://helderman.github.io/htpataic/htpataic01.html)
 
 
-## Video Series
+## Videos
 
 - [Chess Engine In C](https://www.youtube.com/playlist?list=PLZ1QII7yudbc-Ky058TEaOstZHVbT-2hg)
 - [Learn Video Game Programming in C](https://www.youtube.com/playlist?list=PLT6WFYYZE6uLMcPGS3qfpYm7T_gViYMMt)
